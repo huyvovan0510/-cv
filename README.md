@@ -1,3 +1,3 @@
 ## CV of Huy Vo Van
 
-#### https://huyvovan.github.io/
+#### https://huyvovan0510.github.io/-cv/
