@@ -16,10 +16,14 @@
         <div class="time">{{ project.time }}</div>
       </div>
       <div class="company">{{ project.description }}</div>
-      <div class="company">{{ project.position }}</div>
-      <div class="company">{{ project.technologies }}</div>
-      <div class="company">{{ project.link }}</div>
-
+      <div class="position">{{ project.position }}</div>
+      <div class="technologies">{{ project.technologies }}</div>
+      <div class="link">
+        <a href="{{project.link}}">
+        {{project.link }}
+        </a>
+      </div>
+ 
 
 
     </div><!--//item-->
